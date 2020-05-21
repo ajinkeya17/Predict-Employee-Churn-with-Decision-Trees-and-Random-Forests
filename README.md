@@ -1,2 +1,3 @@
 # Predict-Employee-Churn-with-Decision-Trees-and-Random-Forests
-Implementation of Decision trees and Random Forests with interactive displays on a company dataset to predict employee turnover trends
+Implementation of Decision trees and Random Forests with interactive displays on a company dataset to predict employee turnover trends.
+The csv file contains data of the employees with nearly 15000 data points.The Learner_Notebook.ipynb notebook contains entire implementation from EDA,preprocessing of data,visual inferencing of data trends and feature correlation,encoding of categorical features,implementation of Decison Trees and Random Forests classifiers and interactive displays of the classifier and finally the performance evaluation of classifiers.
